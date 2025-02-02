@@ -105,14 +105,13 @@ p {
     font-size: 24px;
   }
 
-  .col-6 img{
+  .col-sm-6 img {
     display: none;
   }
-  .col-6 {
-    display: inline
+  .col-sm-6 {
     text-align: center;
   }
-  .navigation-links{
+  .navigation-links {
     font-size: 14px;
     margin: 10px;
   }
